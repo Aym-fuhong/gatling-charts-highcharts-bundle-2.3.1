@@ -2,84 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4047af0a-4c21-4a57-9b03-420a92483c2c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/all_sessions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/assertions.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/assertions.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/gatling.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/global_stats.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/highcharts-more.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/highstock.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/menu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/moment.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/stats.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/stats.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/theme.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/unpack.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/req_main-page-0745d.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/simulation.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/arrow_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/arrow_down_black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/arrow_right_black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/cible.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/fond-degrade.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/fond-lueur.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/little_arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/logo-gatling.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/sortable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/sorted-down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/sorted-up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/stat-fleche-bas.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/stat-fond.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/stat-l-roue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/stat-l-temps.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/all_sessions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/assertions.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/assertions.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/gatling.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/global_stats.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/highcharts-more.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/highstock.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/menu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/moment.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/stats.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/stats.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/theme.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/unpack.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/req_main-page-0745d.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/simulation.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/arrow_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/arrow_down_black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/arrow_right_black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/cible.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/fond-degrade.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/fond-lueur.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/little_arrow_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/logo-gatling.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/sortable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/sorted-down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/sorted-up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/stat-fleche-bas.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/stat-fond.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/stat-l-roue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/stat-l-temps.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/style.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/MySimulation.class" afterPath="$PROJECT_DIR$/target/test-classes/MySimulation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/zincCache" afterPath="$PROJECT_DIR$/target/test-classes/zincCache" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/js/all_sessions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/js/assertions.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/js/assertions.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/js/gatling.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/js/global_stats.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/js/highcharts-more.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/js/highstock.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/js/menu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/js/moment.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/js/stats.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/js/stats.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/js/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/js/unpack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/req_main-page-0745d.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/simulation.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/arrow_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/arrow_down_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/arrow_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/arrow_right_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/cible.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/fond-degrade.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/fond-lueur.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/little_arrow_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/logo-gatling.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/sortable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/sorted-down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/sorted-up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/stat-fleche-bas.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/stat-fond.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/stat-l-roue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/stat-l-temps.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/first_test-1533204587217/style/style.css" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -233,24 +193,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="results" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gatling-charts-highcharts-bundle-2.3.1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gatling-charts-highcharts-bundle-2.3.1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="results" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="first_test-1533204587217" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -874,12 +816,12 @@
       <updated>1533201525979</updated>
       <workItem from="1533201527470" duration="628000" />
       <workItem from="1533202532081" duration="1074000" />
-      <workItem from="1545621400163" duration="2363000" />
+      <workItem from="1545621400163" duration="2682000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4065000" />
+    <option name="totallyTimeSpent" value="4384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
