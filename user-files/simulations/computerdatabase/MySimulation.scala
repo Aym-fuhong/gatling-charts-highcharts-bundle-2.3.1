@@ -21,7 +21,7 @@ class MySimulation extends Simulation {
                         http("main page")
                                 .get("/ActShipMobile/api/proxy/block/client/list?cityName=%E5%85%A8%E5%9B%BD")
                                 .headers(headers_1)
-                                .check(regex("新户体验尊享show").saveAs("test_save")))
+                               // .check(regex("新户体验尊享show").saveAs("test_save")))
                                 //.check(status.is(200)))
 
   setUp(scn.inject(
