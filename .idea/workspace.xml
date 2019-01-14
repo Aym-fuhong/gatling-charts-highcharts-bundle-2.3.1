@@ -1,7 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4047af0a-4c21-4a57-9b03-420a92483c2c" name="Default" comment="" />
+    <list default="true" id="4047af0a-4c21-4a57-9b03-420a92483c2c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/all_sessions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/assertions.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/assertions.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/gatling.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/global_stats.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/highcharts-more.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/highstock.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/menu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/moment.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/stats.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/stats.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/js/unpack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/req_main-page-0745d.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/simulation.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/arrow_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/arrow_down_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/arrow_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/arrow_right_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/cible.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/fond-degrade.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/fond-lueur.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/little_arrow_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/logo-gatling.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/sortable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/sorted-down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/sorted-up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/stat-fleche-bas.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/stat-fond.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/stat-l-roue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/stat-l-temps.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/second-1533203020041/style/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/all_sessions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/assertions.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/assertions.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/gatling.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/global_stats.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/highcharts-more.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/highstock.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/menu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/moment.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/stats.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/stats.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/js/unpack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/req_main-page-0745d.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/simulation.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/arrow_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/arrow_down_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/arrow_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/arrow_right_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/cible.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/fond-degrade.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/fond-lueur.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/little_arrow_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/logo-gatling.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/sortable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/sorted-down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/sorted-up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/stat-fleche-bas.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/stat-fond.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/stat-l-roue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/stat-l-temps.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results/test_baidu_first-1533202866436/style/style.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/MySimulation.class" afterPath="$PROJECT_DIR$/target/test-classes/MySimulation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/zincCache" afterPath="$PROJECT_DIR$/target/test-classes/zincCache" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +94,8 @@
       <file leaf-file-name="MySimulation.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/user-files/simulations/computerdatabase/MySimulation.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="390">
+              <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -24,7 +103,36 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="AdvancedSimulationStep01.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user-files/simulations/computerdatabase/advanced/AdvancedSimulationStep01.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="e#653#684#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicSimulation.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user-files/simulations/computerdatabase/BasicSimulation.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="e#644#675#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -63,6 +171,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -112,10 +222,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gatling-charts-highcharts-bundle-2.3.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gatling-charts-highcharts-bundle-2.3.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="results" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gatling-charts-highcharts-bundle-2.3.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gatling-charts-highcharts-bundle-2.3.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="results" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first_test-1533204587217" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -541,6 +681,44 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -659,6 +837,25 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
@@ -677,15 +874,15 @@
       <updated>1533201525979</updated>
       <workItem from="1533201527470" duration="628000" />
       <workItem from="1533202532081" duration="1074000" />
+      <workItem from="1545621400163" duration="2363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1702000" />
+    <option name="totallyTimeSpent" value="4065000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -696,12 +893,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -741,8 +938,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/user-files/simulations/computerdatabase/MySimulation.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-files/simulations/computerdatabase/BasicSimulation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#644#675#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-files/simulations/computerdatabase/advanced/AdvancedSimulationStep01.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#653#684#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-files/simulations/computerdatabase/MySimulation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
