@@ -23,6 +23,7 @@ class MySimulation extends Simulation {
                                 .headers(headers_1)
                                // .check(regex("新户体验尊享show").saveAs("test_save")))
                                 //.check(status.is(200)))
+                          womenvfnfhjjh
 
   setUp(scn.inject(
   //atOnceUsers(200),//一次性有200个用户请求
