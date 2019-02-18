@@ -1,0 +1,10 @@
+{
+  "simulation": "MySimulation",
+  "simulationId": "1",
+  "start": 1550400493170,
+  "description": "2",
+  "scenarios": ["visit baidu website"],
+  "assertions": [
+
+  ]
+}
